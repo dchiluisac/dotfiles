@@ -1,4 +1,4 @@
-# ~ Dotfiles
+# ~ Dotfiles - Blur Theme - Arch Linux
 
 ![screen](captures/desktop.png)
 
@@ -16,7 +16,5 @@
 -   Rofi
 -   Rager
 -   Picom
-
-### Install
 
 ....................
